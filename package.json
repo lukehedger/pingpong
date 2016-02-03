@@ -26,9 +26,6 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "@cycle/core": "^6.0.2",
-    "@cycle/dom": "^9.0.2",
-    "@cycle/http": "^8.0.0",
     "classnames": "^2.2.3",
     "history": "^1.17.0",
     "normalize.css": "^3.0.3",
@@ -39,7 +36,6 @@
     "redux": "^3.2.1",
     "redux-logger": "^2.4.0",
     "redux-thunk": "^1.0.3",
-    "rx": "^4.0.7",
     "whatwg-fetch": "^0.11.0"
   }
 }
