@@ -22,4 +22,6 @@ npm run build
 
 ## Deploy
 
-TODO - Surge
+```
+sh surge.sh
+```
