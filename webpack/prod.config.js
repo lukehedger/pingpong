@@ -25,7 +25,8 @@ module.exports = {
       compressor: {
         warnings: false
       }
-    })
+    }),
+    new ExtractTextPlugin('style.css', { allChunks: true })
   ],
   module: {
     loaders: [

@@ -15,6 +15,7 @@ node_modules/
 # Bundle #
 ######################
 **/bundle*
+public/style*
 
 # Tasks #
 ######################
